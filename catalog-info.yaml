@@ -4,6 +4,7 @@ metadata:
   name: test-k8s-app
   annotations:
       backstage.io/kubernetes-id: 9998-demo
+      gitlab.com/project-id: '13'
 spec:
   lifecycle: experimental
   owner: guests

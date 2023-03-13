@@ -5,6 +5,7 @@ metadata:
   annotations:
       backstage.io/kubernetes-id: 9998-demo
       gitlab.com/project-id: '13'
+      gitlab.com/project-slug: 'testci'
 spec:
   lifecycle: experimental
   owner: guests
